@@ -1,6 +1,6 @@
 {
   "name": "vue-observe",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A decorator to make class properties reactive with Vue.js",
   "repository": {
     "url": "egoist/vue-observe",
