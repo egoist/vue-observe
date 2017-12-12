@@ -26,8 +26,8 @@ class Store = {
 
 const store = new Store()
 
-// Your Vue.js component
-const App = {
+// Your Vue.js app
+new Vue({
   render() {
     return (
       <button onClick={() => store.inc()}>
@@ -35,7 +35,7 @@ const App = {
       </button>
     )
   }
-}
+})
 ```
 
 ## Contributing
