@@ -12,7 +12,9 @@ yarn add vue-observe
 ## Usage
 
 ```js
-class Store = {
+import observe from 'vue-observe'
+
+class Store {
   @observe count = 1
 
   get double() {
