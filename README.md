@@ -11,7 +11,7 @@ yarn add vue-observe
 
 ## Usage
 
-```vjs
+```js
 class Store = {
   @observe count = 1
 
