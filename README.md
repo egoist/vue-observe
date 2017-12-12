@@ -11,6 +11,8 @@ yarn add vue-observe
 
 ## Usage
 
+[![Edit vue-observe](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/kwm0l039w3)
+
 ```js
 import observe from 'vue-observe'
 
